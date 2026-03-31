@@ -1,0 +1,1 @@
+package trip; public class InvalidServiceException extends RuntimeException{ public InvalidServiceException(String m){super(m);} }
